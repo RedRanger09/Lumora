@@ -1,0 +1,19 @@
+# Core RAG + NLP (future stages)
+sentence-transformers
+faiss-cpu
+numpy
+
+# OCR (default backend: EasyOCR)
+easyocr
+Pillow
+opencv-python-headless
+
+# Optional PaddleOCR backend (set OCR_BACKEND=paddleocr)
+# paddlepaddle
+# paddleocr==2.9.1
+
+# LLM API (future stage)
+google-generativeai
+
+# Config
+python-dotenv

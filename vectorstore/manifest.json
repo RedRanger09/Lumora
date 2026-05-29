@@ -1,0 +1,7 @@
+{
+  "model_name": "BAAI/bge-small-en-v1.5",
+  "total_vectors": 1219,
+  "embedding_dim": 384,
+  "similarity": "cosine_via_inner_product_on_normalized_vectors",
+  "source_chunks_file": "C:\\Users\\Akshay\\Desktop\\AKTU AI\\data\\chunks\\chunks.jsonl"
+}

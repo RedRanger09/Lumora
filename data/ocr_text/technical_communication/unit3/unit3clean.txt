@@ -1,0 +1,123 @@
+# Communication Skills for Presentation: Writing, Designing, and Speaking
+
+## Thesis and Project Report Writing
+
+### What is a Thesis
+* The word "thesis" is derived from the Greek composition, 'Oeoic', that means 'something to put forth'.
+* Thesis is a lengthy, detailed analysis on a particular topic for the purpose of some research. 
+* Its main aim is to investigate new dimensions on a particular problem.
+
+### Importance of Thesis
+* It helps to form argumentative analysis and discussion on a problem.
+* It improves writing skills.
+* It improves logical thinking, analytical power, critical thinking, creativity, and innovation.
+
+### Features of a Good Thesis
+* Title of thesis should be self-explanatory.
+* It should reflect the main idea of the work.
+* Thesis should be descriptive, crisp, and should be comprehensible to an average kind of reader.
+* Unwanted, irrelevant, and unnecessary details must be skipped because these may distract the attention of the writer and reader both.
+* Its main objective is to grab the attention of the reader and evoke curiosity, so it should be drafted in such a way.
+
+### How to Write a Thesis
+* An easy to learn formula is T (topic) + C (Claim) = Why so (Results/findings/conclusions).
+* Starting a thesis can be daunting, as there are many questions in the beginning, such as how to start, how to structure it, and what information individual chapters should contain.
+* Each educational program has different demands, and depending on these demands, you must decide and take the further steps.
+
+### Structure of a Thesis
+* **Abstract:** The abstract is the overview of your thesis and it is generally very short. This section should highlight the main content of your thesis at a glance so that someone who is curious about your work can get the idea quickly.
+* **Introduction:** The introduction gives an overview of its basics or main points. It should answer why the topic is being studied (objectives), how the topic is being studied (methodology), and what is being studied (content).
+* **Literature Review:** A literature review is often part of the introduction, but it can be a separate section. It is an evaluation of previous research on the topic, showing that there are gaps that your research will attempt to fill. Tips for a literature review include using a wide array of sources, showing both sides of the coin, covering the classics in your field, and presenting everything in a clear and structured manner.
+* **Methodology:** The methodology chapter outlines which methods you choose to gather data, how the data is analyzed, and justifies why you chose that methodology. It shows how your choice of design and research methods is suited to answer your research questions.
+* **Results:** The result chapter outlines what you found out in relation to your research questions or hypothesis. Clearly visualize your results using tables and graphs.
+* **Discussion:** The discussion chapter includes your own analysis and interpretation of the data you gathered, comments on your results, and explains what they mean. This is your opportunity to show that you have understood your findings and their significance. Point out the limitations of your study, provide explanations for unexpected results, and note any questions that remain unanswered.
+* **Conclusion:** This is where you highlight that your research objectives have been achieved. You can reiterate any limitations to your study and make suggestions for future research. Remember to check if you have really answered all your research questions and hypotheses. Your thesis should tie up nicely and clearly show what you did, what results you got, and what you learned.
+
+---
+
+## Project Report Writing
+
+### What is a Project Report
+* A project report is a detailed description of the project.
+* It is a document which provides details on the overall picture of the proposed business.
+* It contains data and information on the basis of which the project has been appraised and found feasible.
+
+### Types of Projects
+* Business Project
+* Technical Project
+* Social Project
+
+### Need of a Project Report
+* A project report helps to get the funds or grants sanctioned for the proposed work.
+* It provides insight about the importance of the work done by the project manager.
+
+### Structure of a Project Report (Sample Elements)
+* Title of the Project Report (e.g., "Study on Self Compacting Concrete Using Industrial Waste Materials").
+* Names and roll numbers of the candidates submitting the report.
+* A statement indicating it is submitted "In Partial Fulfillment For The Award of The Degree" or "Post Graduate Program in Career Development".
+* The name of the institution or company and the relevant academic year.
+
+---
+
+## Technical Proposal Writing
+
+### What is a Proposal
+* A proposal is a kind of offer made by a 1st party to provide its services or to sell its products to a 2nd or 3rd party.
+* Proposal means something proposed, a plan, or a scheme.
+* Oxford Dictionary defines proposal as, "A formal suggestion or plan or the act of making a suggestion."
+* According to Lesikar and Flatley, "A proposal is a persuasive presentation for consideration of something."
+
+### Characteristics of a Good Proposal
+* It should be presented in a persuasive manner.
+* It should be written in simple language with precise and well-organized information.
+* The proposal should be attractive and neatly prepared.
+* The theme should be convincing enough to attract the attention of the concerned person.
+* It must completely highlight the benefits and advantages of the proposal.
+
+### Need/Importance of a Proposal
+* It is used to sell property or construct buildings.
+* It is used to improve engineering/technical performance within an organization.
+* A good proposal helps the organization to win financial returns.
+
+### Kinds of Proposal
+* **Solicited proposal:** When a proposal is invited by some individual, body, or party, it is known as a solicited proposal (generally sent in response to advertisements).
+* **Unsolicited proposal:** When proposals are not invited by anybody, but an individual or team believes a new technology or facility can be developed on a definite plan. They prepare and send a proposal to a body that might be interested.
+
+### Structure of a Proposal
+A good proposal has four essential parts:
+* **1. Front Matter:** 
+  * **Cover page:** A light or white colored page bearing the name of the writer, report title, date, and name of the authority/body receiving the report.
+  * **Title page:** Bears the proposal title, writer's name, date, and project number (if applicable).
+  * **Acknowledgement:** Mentions the names, designations, and institutions of persons who provided assistance.
+  * **Table of content:** Needed for extra-long proposals to list headings, sub-headings, page numbers, and enclosed tables/graphs.
+  * **Summary:** Must highlight the proposal's objectives, adopted procedures, and outcomes.
+* **2. Technical Section:** States the problems, describes the work already done, explains the objective, and defines the scope and limitations of the project. The proposer should mention their methodology and the significance of the proposed work.
+* **3. Managerial Section:** Provides information about existing and required facilities. The proposer must convince the authority of their potential by detailing their academic qualities, professional/technical qualifications, and specific experience.
+* **4. Financial Section:** Furnishes expense details, including material costs, wages, and expenses on electricity, water, food, equipment, and machines. Appendices and glossaries can be added for lengthy proposals.
+
+### Sample Proposal Format
+* **Title:** A Proposal For Developing Portable Luggage Carriers.
+* **Submitted To:** The relevant council or governing body.
+* **By:** Name and designation of the proposer.
+* **Summary:** Includes proposer address, institution where work is done, commencement time, duration (e.g., 6 months), and amount required.
+* **Proposal Summary:** Brief overview of the project (e.g., developing a folding, strong, and light luggage carrier system).
+* **Cost Estimate:** Breakdown of costs like raw material, equipment, and contingency.
+
+---
+
+## Elements of Speech Delivery: Passion, Poise, and Illustrations
+
+### Poise
+* **What is Poise:** Poise means to be mannered, sophisticated, polite, and soft-spoken.
+* **Role of poise in Speech delivery:** A poised speaker can easily attract the audience's attention without much effort, is more convincing, and is more relaxed. A relaxed speaker is listened to more attentively, and the audience shows trust and confidence in them.
+* **How to cultivate poise in speech:** Practice manners and etiquettes; be calm, open, and patient; be positive and optimistic. Use polite tactics such as "sorry", "thanks", "excuse me", and employ a 'You attitude'.
+
+### Passion
+* **What is Passion:** Passion is defined as the curiosity, interest, and willpower to deliver a speech. It is the emotional energy and enthusiasm a speaker shows for their topic. Passion conveys that the speaker is not forced to speak but is genuinely interested.
+* **Role of passion in speech:** Passion brings creativity and innovation to the speech. It prepares the speaker in advance to answer cross-questions from the audience. A passionate speaker uses multiple mediums to make the presentation vivid and attention-grabbing, and can connect with the audience easily and promptly.
+* **How to cultivate passion in speech:** Read extensively about the topic from websites, newspapers, books, and journals. Rehearse repeatedly, cultivate the interest to speak, and attend public speaking events to observe other speakers' styles and body language.
+
+### Illustrations
+* **What is Illustration:** Illustration means using examples related to your topic in your speech.
+* **Role of illustrations in speech delivery:** Illustrations make the content easy to understand and the speech more engaging. They act as supporting devices to verify what has been said.
+* **How to use illustrations in speech delivery:** Read more, be researchful, and talk with people to gather relevant examples.
